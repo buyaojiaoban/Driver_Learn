@@ -1223,7 +1223,7 @@ G. 平时就在做下面的函数
 
 gpios = <&gpio4 19 GPIO_ACTIVE_HIGH>;
 
-![1691637782787](C:\Users\admin\Desktop\驱动学习/img/223.png)
+![1691637782787](./img/223.png)
 
 
 
